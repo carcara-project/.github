@@ -7,9 +7,9 @@
 
 ---
 
-## 📌 Sobre este repositório
+## 📌 Sobre
 
-Este repositório funciona como a **central organizacional do projeto Carcará**, reunindo links, documentações, arquitetura geral e acesso a todos os subprojetos do ecossistema.
+Esta é uma **central organizacional do projeto Carcará**, reunindo links, documentações, arquitetura geral e acesso a todos os subprojetos do ecossistema.
 
 O Carcará é uma **arquitetura distribuída** composta por:
 
