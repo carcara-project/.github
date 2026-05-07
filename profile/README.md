@@ -1,4 +1,4 @@
-# 🐦‍⬛ CARCARÁ PROJECT - Central de Inteligência e Monitoramento de Incêndios
+# 🔥 CARCARÁ PROJECT - Central de Monitoramento de Focos de Incêndio
 
 [![GitHub](https://img.shields.io/badge/GitHub-Carcara--Project-181717?style=for-the-badge&logo=github)](https://github.com/carcara-project)
 [![Location](https://img.shields.io/badge/Location-Brazil,_Ceará-009639?style=for-the-badge&logo=map-pin)](https://github.com/carcara-project)
@@ -11,7 +11,7 @@
 
 Este repositório funciona como a **central organizacional do projeto Carcará**, reunindo links, documentações, arquitetura geral e acesso a todos os subprojetos do ecossistema.
 
-O Carcará não é um único sistema isolado — ele é uma **arquitetura distribuída**, composta por:
+O Carcará é uma **arquitetura distribuída** composta por:
 
 - 📱 Aplicativo mobile de coleta de dados em campo  
 - 🧠 API inteligente de processamento geoespacial  
@@ -94,7 +94,7 @@ O Carcará tem como missão principal:
 
 <div align="center">
 
-**Desenvolvido com 💚 pela equipe do NUPREDS - IFCE (Campus Tianguá)**
+**Desenvolvido com ❤️ pela equipe do NUPREDS - IFCE (Campus Tianguá)**
 
 [![IFCE](https://img.shields.io/badge/Tianguá-Instituto%20Federal%20do%20Ceará-349a46?style=for-the-badge&logoColor=white)](https://www.ifce.edu.br/tiangua)
 
